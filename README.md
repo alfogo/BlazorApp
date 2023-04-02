@@ -1,4 +1,4 @@
-# BlazorApp
+# Blazor Server app
 
 A demo for learning GitHub through a simple Blazor Server app project
 
